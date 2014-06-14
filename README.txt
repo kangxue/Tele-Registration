@@ -1,17 +1,10 @@
 Tele-Registration
 =================
 
-This program is the implementation of our paper: 
+This program is the implementation of our paper:
 
-ARTICLE{Telereg2013
-title = {“Mind the Gap”: Tele-Registration for Structure-Driven Image Completion},
-author = {H. Huang and K.Yin and M. Gong and D. Lischinski and D. Cohen-Or and U. Ascher and B. Chen},
-journal = {ACM Transactions on Graphics (Proceedings of SIGGRAPH ASIA 2013)},
-volume = {32},
-issue = {6},
-pages = {174:1--174:10},
-year = {2013},
-}
+Huang, H., Yin, K., Gong, M., Lischinski, D., Cohen-Or, D., Ascher, U., & Chen, B. (2013). “Mind the Gap”: Tele-Registration for Structure-Driven Image Completion. ACM Transactions on Graphics (TOG), 32(6), 174.
+
 =================
 
 Copyright (C) <2014>  <Kangxue Yin - yinkangxue@gmail.com>
