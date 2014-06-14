@@ -1,7 +1,7 @@
 Tele-Registration
 =================
 
-This program is the implementation of our paper:
+This program is an implementation of our paper:
 
 Hui Huang, Kangxue Yin, Minglun Gong, Dani Lischinski, Daniel Cohen-Or, Uri Ascher, and Baoquan Chen. ACM Transactions on Graphics 32(6) (Proc. ACM SIGGRAPH Asia 2013), Nov. 2013.
 
