@@ -1,7 +1,7 @@
 Tele-Registration
 =================
 
-This program is the implementation of our SIGGRAPH ASIA paper: 
+This program is the implementation of our paper: 
 
 ARTICLE{Telereg2013
 title = {“Mind the Gap”: Tele-Registration for Structure-Driven Image Completion},
