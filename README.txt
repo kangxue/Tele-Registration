@@ -3,11 +3,13 @@ Tele-Registration
 
 This program is the implementation of our paper:
 
-Huang, H., Yin, K., Gong, M., Lischinski, D., Cohen-Or, D., Ascher, U., & Chen, B. (2013). “Mind the Gap”: Tele-Registration for Structure-Driven Image Completion. ACM Transactions on Graphics (TOG), 32(6), 174.
+Huang, H., Yin, K., Gong, M., Lischinski, D., Cohen-Or, D., Ascher, U.,
+& Chen, B. (2013). “Mind the Gap”: Tele-Registration for 
+Structure-Driven Image Completion. ACM Transactions on Graphics (TOG), 32(6), 174.
 
 =================
 
-Copyright (C) <2014>  <Kangxue Yin - yinkangxue@gmail.com>
+Copyright (C) <2014>  <Kangxue Yin>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
