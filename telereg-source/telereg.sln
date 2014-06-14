@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "telereg-demo", "telereg-demo\telereg-demo.vcxproj", "{54E1F940-1C6A-4755-9B64-D0A2C868A11D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "telereg-lib", "telereg-lib\telereg-lib.vcxproj", "{33A792FD-2B48-4A1F-B3CE-8BB1804FE4B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E1F940-1C6A-4755-9B64-D0A2C868A11D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54E1F940-1C6A-4755-9B64-D0A2C868A11D}.Debug|Win32.Build.0 = Debug|Win32
+		{54E1F940-1C6A-4755-9B64-D0A2C868A11D}.Release|Win32.ActiveCfg = Release|Win32
+		{54E1F940-1C6A-4755-9B64-D0A2C868A11D}.Release|Win32.Build.0 = Release|Win32
+		{33A792FD-2B48-4A1F-B3CE-8BB1804FE4B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{33A792FD-2B48-4A1F-B3CE-8BB1804FE4B4}.Debug|Win32.Build.0 = Debug|Win32
+		{33A792FD-2B48-4A1F-B3CE-8BB1804FE4B4}.Release|Win32.ActiveCfg = Release|Win32
+		{33A792FD-2B48-4A1F-B3CE-8BB1804FE4B4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
