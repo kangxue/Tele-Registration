@@ -1,0 +1,1 @@
+telereg-demo curves_fruit.txt
