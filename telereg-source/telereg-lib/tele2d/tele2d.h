@@ -54,8 +54,8 @@ public:
 	
 	tele2d ( ) {
 		resolution = 100 ;
-		gussian_h = 0.01 ;
-		scalar_weight = 0.1 ;
+		gussian_h = 0.02 ;
+		scalar_weight = 1 ;
 	}
 	tele2d( int res, double h, double w ) {
 		resolution = res ;

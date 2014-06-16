@@ -45,9 +45,9 @@
 
 tele2d *teleRegister ;
 #ifdef _DEBUG 
-#pragma comment(lib, "telereg-libd.lib") ;
+#pragma comment(lib, "telereg-libd.lib") 
 #else
-#pragma comment(lib, "telereg-lib.lib") ;
+#pragma comment(lib, "telereg-lib.lib") 
 #endif
 
 
@@ -184,7 +184,7 @@ int main(int argc, char **argv) {
 
 
 
-	teleRegister = new tele2d( 50, 0.02, 0.1 ) ;
+	teleRegister = new tele2d( 50, 0.02,1 ) ;
 
 	CURVES curves ;
 	std::vector<std::vector<int>> group ;

@@ -1,1 +1,1 @@
-telereg-demo curves_fruit.txt
+telereg-demo curves_fish.txt
